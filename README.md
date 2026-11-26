@@ -63,24 +63,24 @@ I'm a computer engineering student and software developer. I like taking an idea
 
 ### Everything public, in one place.
 
-| | Project | What it is | Stack | Status |
-|:-:|---|---|---|:-:|
-| `OS` | [**OperatingSystem**](https://github.com/EreenKara/OperatingSystem) | OS simulator with process manager, dispatcher, memory frames and FCFS / round-robin scheduling (team of 5) | Java | `TEAM` |
-| `TB` | [**TradingBot**](https://github.com/mervanAksu/TradingBot) | ICT / MMXM rule-based research strategy with documented backtests (no live trading) | Pine Script v6 · Python | `RESEARCH` |
-| `TS` | [**TarSau**](https://github.com/mervanAksu/TarSau) | CLI archiver that packs text files into a custom `.sau` format, keeping permissions | C · Make | `COURSE` |
-| `FL` | [**JFuzzyLogic-Fuel-Control-System**](https://github.com/mervanAksu/JFuzzyLogic-Fuel-Control-System) | Mamdani fuzzy controller estimating fuel injection from gear and throttle | Java · jFuzzyLogic | `COURSE` |
-| `FA` | [**Finsight-AI**](https://github.com/mervanAksu/Finsight-AI) | Explainable financial analysis of SEC 10-K/10-Q/8-K filings: sentiment, risk diff, cited Q&A | Python · FastAPI · React · TS | `ACTIVE` |
-| `HS` | [**Halisaha**](https://github.com/mervanAksu/Halisaha) | Pitch-booking platform: mobile app for players, web panel for owners, deposit payments | Flutter · Next.js · Supabase | `ACTIVE` |
-| `BR` | [**BerberRandevuApp**](https://github.com/mervanAksu/BerberRandevuApp) | Turkish appointment app for independent barbershops | Node.js · SQLite | `ACTIVE` |
-| `ML` | [**ML-Learning-Journey**](https://github.com/mervanAksu/ML-Learning-Journey) | ML projects from fundamentals up: Titanic, car prices, Fashion-MNIST, BBC news, transfer learning | Python · PyTorch · Keras | `LEARNING` |
-| `SB` | [**SehirBolunmeSimulasyonu**](https://github.com/mervanAksu/SehirBolunmeSimulasyonu) | City → district → neighborhood simulation using OOP in plain C | C | `COURSE` |
-| `CP` | [**CityPopulationSimulation**](https://github.com/mervanAksu/CityPopulationSimulation) | Round-based population growth and city splitting simulation | Java · Maven | `COURSE` |
-| `DG` | [**DrawingGeometricShapesProgram**](https://github.com/mervanAksu/DrawingGeometricShapesProgram) | Drawing app with movable shapes and JSON save/load | C# · WinForms | `COURSE` |
-| `UC` | [**BasicUnitConversionApp**](https://github.com/mervanAksu/BasicUnitConversionApp) | Menu-driven unit converter with input validation | C# · .NET | `COURSE` |
-| `HM` | [**HospitalManagementSystem**](https://github.com/mervanAksu/HospitalManagementSystem) | Layered hospital management web app (models, repositories, services) | ASP.NET Core MVC | `ARCHIVED` |
-| `AS` | [**WebProgramlamaProje**](https://github.com/mervanAksu/WebProgramlamaProje) | Airplane seat booking system | ASP.NET MVC · JS | `ARCHIVED` |
-| `PL` | [**ProgramlamaDilleri**](https://github.com/mervanAksu/ProgramlamaDilleri) | Fighting-colonies simulation with OOP simulated in C | C | `ARCHIVED` |
-| `DB` | [**Database-Management-Systems**](https://github.com/mervanAksu/Database-Management-Systems) | Cinema management desktop app for a DBMS course | C# · SQL | `ARCHIVED` |
+| Project | What it is | Status |
+|---|---|:-:|
+| [**OperatingSystem**](https://github.com/EreenKara/OperatingSystem) | OS simulator with process manager, dispatcher, memory frames and FCFS / round-robin scheduling (team of 5)<br><sub>Java</sub> | `TEAM` |
+| [**TradingBot**](https://github.com/mervanAksu/TradingBot) | ICT / MMXM rule-based research strategy with documented backtests (no live trading)<br><sub>Pine Script v6 · Python</sub> | `RESEARCH` |
+| [**TarSau**](https://github.com/mervanAksu/TarSau) | CLI archiver that packs text files into a custom `.sau` format, keeping permissions<br><sub>C · Make</sub> | `COURSE` |
+| [**JFuzzyLogic-Fuel-Control-System**](https://github.com/mervanAksu/JFuzzyLogic-Fuel-Control-System) | Mamdani fuzzy controller estimating fuel injection from gear and throttle<br><sub>Java · jFuzzyLogic</sub> | `COURSE` |
+| [**Finsight-AI**](https://github.com/mervanAksu/Finsight-AI) | Explainable financial analysis of SEC 10-K/10-Q/8-K filings: sentiment, risk diff, cited Q&A<br><sub>Python · FastAPI · React · TS</sub> | `ACTIVE` |
+| [**Halisaha**](https://github.com/mervanAksu/Halisaha) | Pitch-booking platform: mobile app for players, web panel for owners, deposit payments<br><sub>Flutter · Next.js · Supabase</sub> | `ACTIVE` |
+| [**BerberRandevuApp**](https://github.com/mervanAksu/BerberRandevuApp) | Turkish appointment app for independent barbershops<br><sub>Node.js · SQLite</sub> | `ACTIVE` |
+| [**ML-Learning-Journey**](https://github.com/mervanAksu/ML-Learning-Journey) | ML projects from fundamentals up: Titanic, car prices, Fashion-MNIST, BBC news, transfer learning<br><sub>Python · PyTorch · Keras</sub> | `LEARNING` |
+| [**SehirBolunmeSimulasyonu**](https://github.com/mervanAksu/SehirBolunmeSimulasyonu) | City → district → neighborhood simulation using OOP in plain C<br><sub>C</sub> | `COURSE` |
+| [**CityPopulationSimulation**](https://github.com/mervanAksu/CityPopulationSimulation) | Round-based population growth and city splitting simulation<br><sub>Java · Maven</sub> | `COURSE` |
+| [**DrawingGeometricShapesProgram**](https://github.com/mervanAksu/DrawingGeometricShapesProgram) | Drawing app with movable shapes and JSON save/load<br><sub>C# · WinForms</sub> | `COURSE` |
+| [**BasicUnitConversionApp**](https://github.com/mervanAksu/BasicUnitConversionApp) | Menu-driven unit converter with input validation<br><sub>C# · .NET</sub> | `COURSE` |
+| [**HospitalManagementSystem**](https://github.com/mervanAksu/HospitalManagementSystem) | Layered hospital management web app (models, repositories, services)<br><sub>ASP.NET Core MVC</sub> | `ARCHIVED` |
+| [**WebProgramlamaProje**](https://github.com/mervanAksu/WebProgramlamaProje) | Airplane seat booking system<br><sub>ASP.NET MVC · JS</sub> | `ARCHIVED` |
+| [**ProgramlamaDilleri**](https://github.com/mervanAksu/ProgramlamaDilleri) | Fighting-colonies simulation with OOP simulated in C<br><sub>C</sub> | `ARCHIVED` |
+| [**Database-Management-Systems**](https://github.com/mervanAksu/Database-Management-Systems) | Cinema management desktop app for a DBMS course<br><sub>C# · SQL</sub> | `ARCHIVED` |
 
 <br>
 
