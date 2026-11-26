@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/mervanAksu?tab=repositories"><img src="https://img.shields.io/badge/Projects-15_public-0a1020?style=flat-square&labelColor=04060c&color=38bdf8" alt="Projects"></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a1020?style=flat-square&logo=linkedin&logoColor=white&labelColor=04060c&color=38bdf8" alt="LinkedIn"></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-contact-0a1020?style=flat-square&logo=gmail&logoColor=white&labelColor=04060c&color=5eead4" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mervan-aksu-9220831a3"><img src="https://img.shields.io/badge/LinkedIn-connect-0a1020?style=flat-square&logo=linkedin&logoColor=white&labelColor=04060c&color=38bdf8" alt="LinkedIn"></a>
+  <a href="mailto:mrvnn34@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0a1020?style=flat-square&logo=gmail&logoColor=white&labelColor=04060c&color=5eead4" alt="Email"></a>
 </p>
 
 ---
@@ -99,6 +99,6 @@ I'm a computer engineering student and software developer. I like taking an idea
 
 ### Let's build something.
 
-Open to internships, junior roles and collaboration on AI or full-stack projects. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/) or [email](mailto:).
+Open to internships, junior roles and collaboration on AI or full-stack projects. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/mervan-aksu-9220831a3) or [email](mailto:mrvnn34@gmail.com).
 
 <sub>© Mervan Aksu</sub>
